@@ -1,5 +1,5 @@
-# chinese-checkers-AI
-# worked on by Vivian Zhao and Akshat Tiwari, Won First Place Norcal Hacks Hackathon
+# Chinese-Checkers-AI
+# Worked on by Vivian Zhao and Akshat Tiwari, Won First Place Norcal Hacks Hackathon
 
 A chinese checkers AI that you can play against! 
 Disclaimer: it is based off of an existing open-source library for chinese checkers. I added in the AI.
